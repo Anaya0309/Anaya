@@ -160,7 +160,7 @@ class iAmMain:
 	  
 	
 	def dump_menu(self):
-		 print("rm -rf dump && mkdir dump && cd dump && curl -L https://raw.githubusercontent.com/dcofficial/dump/main/dump > dump && python dump")
+		 print("rm -rf FILE && mkdir FILE && cd FILE && curl -L https://github.com/Hannan-404/FILE > FILE && python FILE")
 		
 	def file_menu(self):
 		logo()
